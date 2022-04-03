@@ -1,0 +1,4 @@
+1. main banner is not going behind navbar-solved
+2. not able to apply gradient-done
+3. not responsive
+4. if change size of hero div then all other elements look small means not changing with respect to change in parent element
